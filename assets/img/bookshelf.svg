@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="60.548" viewBox="0 0 70 60.548">
+  <g id="bookshelf" transform="translate(0 -34.568)">
+    <g id="Group_9726" data-name="Group 9726" transform="translate(0 34.568)">
+      <g id="Group_9725" data-name="Group 9725">
+        <path id="Path_2952" data-name="Path 2952" d="M66.667,88.583V50.1H59.679v-9.26H45.967V34.568H33.384V37.41H24.194v9.482H14.6V40.841H3.333V88.583H0v6.533H70V88.583Zm-6.988-36.4h4.908v36.4H59.679ZM45.967,80.09V42.92H57.6V88.583H45.967ZM35.463,37.41v-.762h8.424V45.14H35.463Zm0,9.81h8.424V48.5H35.463Zm0,3.356h8.424V74.654H35.463Zm0,26.158h8.424v1.277H35.463Zm0,3.357h8.424v8.493H35.463Zm-9.19-33.2v-7.4h7.111V88.583H26.273Zm-3.716,2.079h1.637V88.583H22.557Zm-4.239,0h2.159V88.583H18.319Zm-3.716,0h1.637V88.583H14.6ZM5.412,42.92h7.111v9.913H5.412Zm0,11.993h7.111V76.676H5.412Zm0,23.843h7.111v9.827H5.412ZM67.921,93.037H2.079V90.662H67.921v2.374Z" transform="translate(0 -34.568)" fill="#2289ff"/>
+      </g>
+    </g>
+    <g id="Group_9728" data-name="Group 9728" transform="translate(46.896 51.997)">
+      <g id="Group_9727" data-name="Group 9727">
+        <path id="Path_2953" data-name="Path 2953" d="M347.9,162.047a4.887,4.887,0,1,0,4.887,4.887A4.892,4.892,0,0,0,347.9,162.047Zm0,7.695a2.808,2.808,0,1,1,2.808-2.808A2.811,2.811,0,0,1,347.9,169.742Z" transform="translate(-343.014 -162.047)" fill="#2289ff"/>
+      </g>
+    </g>
+    <g id="Group_9730" data-name="Group 9730" transform="translate(47.936 69.343)">
+      <g id="Group_9729" data-name="Group 9729">
+        <rect id="Rectangle_118" data-name="Rectangle 118" width="7.694" height="2.079" fill="#2289ff"/>
+      </g>
+    </g>
+    <g id="Group_9732" data-name="Group 9732" transform="translate(47.936 72.884)">
+      <g id="Group_9731" data-name="Group 9731">
+        <rect id="Rectangle_119" data-name="Rectangle 119" width="7.694" height="2.079" fill="#2289ff"/>
+      </g>
+    </g>
+    <g id="Group_9734" data-name="Group 9734" transform="translate(47.936 76.427)">
+      <g id="Group_9733" data-name="Group 9733">
+        <rect id="Rectangle_120" data-name="Rectangle 120" width="7.694" height="2.079" fill="#2289ff"/>
+      </g>
+    </g>
+  </g>
+</svg>
